@@ -1,3 +1,13 @@
+
+#Description
+Created with React.js, Chart.js and Alpha Vantage API. 
+Enter a Stock Symbol and view daily / weekly stock price changes.
+
+##Demo: https://zen-goldberg-6bf025.netlify.app/
+
+![stock](https://user-images.githubusercontent.com/61046794/150206784-51eeeaf3-f264-4d56-a3d8-b2d558532f71.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
